@@ -1,0 +1,2 @@
+Hello world
+Using git bash for the first time
